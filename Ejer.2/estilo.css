@@ -1,0 +1,21 @@
+table {
+    margin: 20px auto; /* Aumenta el margen alrededor de la tabla */
+    background-color: #b9c9fe;
+}
+#centrado {
+    text-align: center;
+}
+#tabla {
+    Margin:200px; /* Centra el contenido de las celdas horizontalmente */
+}
+td img {
+    display: block; /* Hace que la imagen sea un bloque para poder aplicar márgenes automáticamente */
+    margin: 0 auto; /* Centra la imagen horizontalmente dentro de la celda */
+}
+td input[type="submit"] {
+    display: block; /* Hace que el botón sea un bloque para poder aplicar márgenes automáticamente */
+    margin: 0 auto; /* Centra el botón horizontalmente dentro de la celda */
+}
+body {
+    background-color: silver; /* Color de fondo para el cuerpo de todas las páginas */
+}
